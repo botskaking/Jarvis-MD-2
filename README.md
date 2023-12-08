@@ -30,7 +30,7 @@ jarvis md is Multi Device whatsapp bot based on X-Asena
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/gDYcSS?referralCode=wgSM5y)
 #### DEPLOY TO REPLIT
  If You don't have a account in replit. Create a account in replit
-<a href='https://replit.com/signup' style='background-color: black; color: orange; text-size: 25px;'>SIGNUP IN REPLIT</a>
+<a href='https://replit.com/signup' style='background-color: black; color: orange; text-size: 25px;'>SIGNUP IN REPLIT</a><br>
 Now Deploy
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/botskaking/Jarvis-MD-2)
 
