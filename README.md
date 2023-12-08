@@ -28,6 +28,7 @@ jarvis md is Multi Device whatsapp bot based on X-Asena
 2. Now Deploy
     <br>
 <a href='https://railway.app/template/gDYcSS?referralCode=wgSM5y' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/botskaking/Jarvis-MD-2)
 
 
 #### THANKS TO
